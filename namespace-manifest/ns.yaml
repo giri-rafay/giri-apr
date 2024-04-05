@@ -1,7 +1,7 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: a1-git
+  name: a1-git1
   labels:
     name: systemqd
     k8smgmt.io/project: giri-test
