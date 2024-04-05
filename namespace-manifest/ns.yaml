@@ -2,7 +2,7 @@ kind: Namespace
 apiVersion: v1
 metadata:
   name: a1-git1
-  labels:
+labels:
     name: systemqd
     abc: def
     dev: giri
