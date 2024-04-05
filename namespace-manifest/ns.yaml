@@ -4,4 +4,6 @@ metadata:
   name: a1-git1
   labels:
     name: systemqd
-    k8smgmt.io/project: giri-test
+    abc: def
+    dev: giri
+    team: qa
