@@ -1,1 +1,7 @@
-
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: a1-git
+  labels:
+    name: systemqd
+    k8smgmt.io/project: giri-test
